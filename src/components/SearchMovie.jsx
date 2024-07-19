@@ -344,7 +344,7 @@ const SearchMovie = ({ setMovie }) => {
   const [currentPage, setCurrentPage] = useState(0);
   const [suggestions, setSuggestions] = useState([]);
 
-  const moviesPerPage = 12; // Number of movies to display per page
+  const moviesPerPage = 12; // Number of movies to display per  page
 
   useEffect(() => {
     const fetchMovies = async () => {
