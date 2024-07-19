@@ -1,0 +1,19 @@
+/* App.module.css */
+.appContainer {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .appTitle {
+    color: #007bff;
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .movieDetails {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
